@@ -1,3 +1,3 @@
-# Fresvii SDK for Unity
+# Frenbee SDK for Unity
 
-See [Fresvii SDK for Unity | User Manual](../../wiki) Wiki.
+See [Frenbee SDK for Unity | User Manual](../../wiki) Wiki.
