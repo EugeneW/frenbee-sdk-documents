@@ -1,3 +1,3 @@
 Fresvii SDK for Unity
 
-See [User Manual](../../wiki).
+See [Fresvii SDK for Unity | User Manual](../../wiki) Wiki.
