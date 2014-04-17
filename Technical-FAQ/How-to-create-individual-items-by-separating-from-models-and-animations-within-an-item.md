@@ -1,0 +1,1 @@
+﻿The Frenbee SDK alpha version does not support separation of models and animations within [[Frenbee Document]] at this moment.

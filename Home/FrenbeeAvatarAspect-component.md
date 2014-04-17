@@ -1,0 +1,2 @@
+FrenbeeAvatarAspect component represents one [[Avatar Aspect]] (avatar appearance) of [[Frenbee Avatar]] in conjunction with [`FrenbeeDocument component`](FrenbeeDocument component) to provide dynamic control of [[Avatar Creation]] (appearance and costume change).
+Content set for this component works in conjunction with [`FrenbeeDocument component`](FrenbeeDocument component) to display a 3D avatar.
